@@ -16,7 +16,7 @@
   "author": "David",
   "license": "UNLICENSED",
   "dependencies": {
-    "aws-sdk": "^2.503.0",
+    "aws-sdk": "^2.814.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "json-stringify-safe": "^5.0.1",
